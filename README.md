@@ -1,4 +1,4 @@
-# Unity Input Manager
+# Steve's Input Manager
 
 A custom input manager for Unity that supports keyboard, mouse, gamepad, and VR controller inputs without using Unity's built-in Input System.
 
